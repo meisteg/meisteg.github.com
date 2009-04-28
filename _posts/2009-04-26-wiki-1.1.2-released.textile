@@ -1,0 +1,17 @@
+---
+layout: post
+title: Wiki 1.1.2 Released
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 April 2009
+
+"Wiki for phpWebSite":http://github.com/meisteg/wiki brings the power and convenience of a wiki to "phpWebSite":http://phpwebsite.appstate.edu. This minor bugfix release fixes issues with the anchor and TOC links. phpWebSite 1.2.0 or later is required.
+
+With the release, the Wiki module project is now "hosted on GitHub":http://github.com/meisteg/wiki/downloads.
+
+If you have any questions or comments about the Wiki module, "please submit a ticket":http://github.com/meisteg/wiki/issues on the project site.
+
+Enjoy the new version!
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Projects Moved to GitHub
+---
+
+h1. {{ page.title }}
+
+p(meta). 25 April 2009
+
+For many years I've been hosting my phpWebSite projects on SourceForge. Most started as separate projects, but then I merged into the "phpWebSite-comm":http://sourceforge.net/projects/phpwebsite-comm project. I never liked SourceForge, and I've always wanted to find something better.
+
+Eventually, I found GitHub, and I signed up for an account on 11 January 2009.  After a few months of debating whether to make the move, I finally pulled the trigger and imported all my projects.  The "release of the GitHub issues tracker":http://github.com/blog/411-github-issue-tracker on 15 April 2009 pushed me over the edge.
+
+Now my goal is to convince the "phpWebSite":http://phpwebsite.appstate.edu development team to transition to Git, and maybe even GitHub.  ;-)
+
