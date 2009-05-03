@@ -1,0 +1,17 @@
+---
+layout: post
+title: OpenID 1.0.3 Released
+---
+
+h1. {{ page.title }}
+
+p(meta). 03 May 2009
+
+The "OpenID module":http://github.com/meisteg/openid for "phpWebSite":http://phpwebsite.appstate.edu allows you to enable users to login to your website using their "OpenID":http://openid.net. Your existing users can link their OpenID(s) to their account. In addition, you'll be able to delegate your website to an OpenID, enabling you to use your site as your OpenID identifier.  This minor release upgrades to version 2.1.3 of the "PHP OpenID library":http://www.openidenabled.com/php-openid. phpWebSite 1.5.2 or later is required.
+
+With the release, the OpenID module project is now "hosted on GitHub":http://github.com/meisteg/openid/downloads.
+
+If you have any questions or comments about the OpenID module, "please submit a ticket":http://github.com/meisteg/openid/issues on the project site.
+
+Enjoy the new version!
+
